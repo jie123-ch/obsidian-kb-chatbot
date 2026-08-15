@@ -1,0 +1,29 @@
+# Python
+.venv/
+__pycache__/
+*.pyc
+
+# 密钥 / 个人数据（绝不提交）
+.env
+kb.db
+vault_watch.lock
+vault_watch.log
+
+# 构建产物
+dist/
+build/
+dist-installer/
+*.apk
+*.exe
+*.spec
+
+# Android
+android-client/.gradle/
+android-client/build/
+android-client/app/build/
+android-client/local.properties
+android-client/debug.keystore
+
+# IDE
+.idea/
+.vscode/
