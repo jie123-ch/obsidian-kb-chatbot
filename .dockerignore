@@ -1,0 +1,14 @@
+dist/
+build/
+*.spec
+android-client/
+.venv/
+__pycache__/
+*.pyc
+.env
+dist-installer/
+test_*.py
+.DS_Store
+*.apk
+.git/
+node_modules/
