@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.KBChat" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="android:statusBarColor">#f2f2f7</item>
+        <item name="android:windowLightStatusBar">true</item>
+        <item name="android:windowBackground">#f2f2f7</item>
+    </style>
+</resources>
